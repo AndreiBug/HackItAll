@@ -41,16 +41,6 @@ Whether you're starting a new project, breaking down a feature, or just keeping 
 
 ---
 
-## 🖼️ UI Overview
-
-| Feature | Screenshot |
-|--------|------------|
-| To-Do List + Notes + Code Link | ![Crispy Plugin Screenshot](./demo_ui.gif) |
-| Task Completion + Progress Bar | ✅ |
-| Cat GIF when 100% done | 🐱 |
-
----
-
 ## 📁 File Structure
 
 - `ToDoList.kt` – Main tool window logic
